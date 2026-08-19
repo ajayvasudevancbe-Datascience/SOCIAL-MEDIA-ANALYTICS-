@@ -12,10 +12,10 @@ To keep the starter file from becoming too crowded, all the tests have been move
 
 ##### Data Source Used: kaggle
 ### Python Components and Library used: 
-Library: This project uses the Pandas library for data analysis.
+**Library:** This project uses the Pandas library for data analysis.
 
-Core Components: Data, Variables, Expressions and Statements
+**Core Components:** Data, Variables, Expressions and Statements
 
-Control Flow of Program: Functions, Conditionals, Loops, Recursion and Classes
+**Control Flow of Program:** Functions, Conditionals, Loops, Recursion and Classes
 
-Organization of data into new structures: Lists, Sets, Dictionaries and Objects
+**Organization of data into new structures:** Lists, Sets, Dictionaries and Objects
